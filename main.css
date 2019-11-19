@@ -1,0 +1,17 @@
+.cl1 {
+    color: brown;
+}
+
+.cl2 {
+    color: rgb(0, 139, 46);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+#mainRep {
+    background-color: darkmagenta;
+}
